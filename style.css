@@ -3,5 +3,9 @@ h1 {
   color: red;
 }
 img {
+  display: block;
   text-align: center;
+  max-width: 50%;
+  margin: 50px;
+  padding: auto;
 }
